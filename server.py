@@ -1,7 +1,7 @@
 import socket
 
 #HOST = socket.gethostbyname(socket.gethostname())
-HOST = '10.0.0.232'
+HOST = '10.0.0.1' #this is the server and client HOST number should be based on it
 PORT = 44132#9052
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
