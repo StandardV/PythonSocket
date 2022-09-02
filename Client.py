@@ -5,7 +5,7 @@ import os
 import time
 
 def cliente():
-    HOST = '10.0.0.96'
+    HOST = '10.0.0.1' #check your ipv4, and change it accordingly to the server to activate
     PORT = 44132
     #9052
 
