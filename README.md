@@ -2,13 +2,17 @@
 Connection Via LAN (Continue developing for Virtual Assistance on Raspberry pi
 
 ## The First Thoughts
+  Cliente.py will have the ability to connect to server.py via sockets connection as long as they have the right port and the right server Ipv4 address
   
   
+  In short, sending CMDON from the server to client when they are connected will yield the server the ability to unlock popen, which mean cmd on the client, and the server can do any other command from it.
   
-
-
-
-
+  FOR EXAMPLE:
+  
+    -cmd on
+    -start chrome.exe ===> open google chrome
+    -start chrome.exe -incognito --target URL ==> open google chrome in incognito and send it to a specific URL
+    -start undefined.py ==> run a pre-written script on the host computer for example, OCRpython () , Ads autoclick ()/
 
 
 ## Development planning
