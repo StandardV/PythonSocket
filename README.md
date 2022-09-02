@@ -9,7 +9,7 @@ Connection Via LAN (Continue developing for Virtual Assistance on Raspberry pi)
   
   FOR EXAMPLE:
   
-    -cmd on
+    -cmd on ==> run popen feature on client.py allow the ability to type on it cmd
     -start chrome.exe ===> open google chrome
     -start chrome.exe -incognito --target URL ==> open google chrome in incognito and send it to a specific URL
     -start undefined.py ==> run a pre-written script on the host computer for example, OCRpython (https://github.com/StandardV/OCR-with-Pyautogui) , Ads autoclick (https://github.com/StandardV/Ads-Click-Automation)
