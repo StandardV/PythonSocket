@@ -1,5 +1,5 @@
 # PythonSocket
-Connection Via LAN (Continue developing for Virtual Assistance on Raspberry pi
+Connection Via LAN (Continue developing for Virtual Assistance on Raspberry pi)
 
 ## The First Thoughts
   Cliente.py will have the ability to connect to server.py via sockets connection as long as they have the right port and the right server Ipv4 address
